@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vMNJZo8tFz5eHayC8gdWfvWgwJgv9CqdZVR4f1eTYOsOn7UanV01i/qT5KkY+gCG0HL5mY/eleYSVkgRBmtrbA==",
+  "dgSpecHash": "BkfS+pYgR2jEPXgj4jlTZGPCDUwQGPRq6tmyEd6XflYHN+gFVoD0cI3YnNZ8N9hw0zY3a+zkdtteY9Gd/sQp2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ramsh\\.vscode\\SixMinAPI\\SixMinAPI.csproj",
+  "projectFilePath": "C:\\Users\\ramsh\\.vscode\\SIXMINAPI\\SixMinAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ramsh\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\ramsh\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

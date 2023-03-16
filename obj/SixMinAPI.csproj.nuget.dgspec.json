@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ramsh\\.vscode\\SixMinAPI\\SixMinAPI.csproj": {}
+    "C:\\Users\\ramsh\\.vscode\\SIXMINAPI\\SixMinAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ramsh\\.vscode\\SixMinAPI\\SixMinAPI.csproj": {
+    "C:\\Users\\ramsh\\.vscode\\SIXMINAPI\\SixMinAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramsh\\.vscode\\SixMinAPI\\SixMinAPI.csproj",
+        "projectUniqueName": "C:\\Users\\ramsh\\.vscode\\SIXMINAPI\\SixMinAPI.csproj",
         "projectName": "SixMinAPI",
-        "projectPath": "C:\\Users\\ramsh\\.vscode\\SixMinAPI\\SixMinAPI.csproj",
+        "projectPath": "C:\\Users\\ramsh\\.vscode\\SIXMINAPI\\SixMinAPI.csproj",
         "packagesPath": "C:\\Users\\ramsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramsh\\.vscode\\SixMinAPI\\obj\\",
+        "outputPath": "C:\\Users\\ramsh\\.vscode\\SIXMINAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ramsh\\AppData\\Roaming\\NuGet\\NuGet.Config"
